@@ -1,6 +1,6 @@
 [project]
 name = "wtf_cmd"
-version = "0.1.2"
+version = "0.2.1"
 description = "Default template for PDM package"
 authors = [
     {name = "thephunkmonk", email = "andrewchoi1218@gmail.com"},
